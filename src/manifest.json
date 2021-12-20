@@ -17,6 +17,6 @@
       "32": "icons/icon-32.png"
     },
     "default_title": "Copy",
-    "default_popup": "popup/popup.html"
+    "default_popup": "src/popup/popup.html"
   }
 }
